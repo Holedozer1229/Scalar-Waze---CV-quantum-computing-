@@ -67,6 +67,6 @@ Join us in pushing the boundaries of quantum simulation! Star 🌟 this repo and
 MIT License. See LICENSE for details.
 
 ## 🙌 Acknowledgments
-Built by the xAI Research Team, inspired by theoretical advances in quantum gravity, fractal geometry, and unified physics. Special thanks to the open-source community for NumPy, SciPy, and Matplotlib.
+Built by Travis D. Jones, inspired by theoretical advances in quantum gravity, fractal geometry, and unified physics. Special thanks to the open-source community for NumPy, SciPy, and Matplotlib.
 
 Ready to simulate the quantum universe? Dive in and trust the math! 🎉
