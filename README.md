@@ -17,9 +17,9 @@ This repository contains a groundbreaking Python implementation of a 2048-qubit 
 ## ⚙️ Installation
 	1	Clone the repository:
 	```bash
-	git clone https://github.com/Holedozer1229/Scalar-Waze---CV-quantum-computing-/tree/main/Sphinx_CV.git
+	git clone https://github.com/Holedozer1229/Scalar-Waze---CV-quantum-computing-/tree/main/Sphinx_gqc.git
 	```
-	2	cd Sphinx_CV
+	2	cd Sphinx_gqc
 	3	
 	4	Install dependencies:
 	```bash
