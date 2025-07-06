@@ -17,9 +17,9 @@ This repository contains a groundbreaking Python implementation of a 2048-qubit 
 ## ⚙️ Installation
 	1	Clone the repository:
 	```bash
-	git clone https://github.com/xAI/2048-qubit-cv-simulator.git
+	git clone https://github.com/Holedozer1229/Scalar-Waze---CV-quantum-computing-/tree/main/scalar_cv.git
 	```
-	2	cd 2048-qubit-cv-simulator
+	2	cd scalar_cv
 	3	
 	4	Install dependencies:
 	```bash
